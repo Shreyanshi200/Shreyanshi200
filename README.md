@@ -9,8 +9,7 @@
 
 - 📫 How to reach me **shreyanshisrivastava14@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ozyr2IR-L5_V763v4DyR2QO4RXDMf14K/view](https://drive.google.com/file/d/1ozyr2IR-L5_V763v4DyR2QO4RXDMf14K/view)
-
+- 📄 Know about my experiences [https://shreyanshi200.github.io/portfolio/](https://shreyanshi200.github.io/portfolio/)
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
