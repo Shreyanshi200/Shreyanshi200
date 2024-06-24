@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shreyanshisrivastava14@gmail.com**
 
-- 📄 Know about my experiences [https://shreyanshi200.github.io/portfolio/](https://shreyanshi200.github.io/portfolio/)
+- 📄 Know about my experiences [https://portfolio-shreyanshi.vercel.app/](https://portfolio-shreyanshi.vercel.app/)
 - ⚡ Fun fact **I think i am funny**
 
 <h3 align="left">Connect with me:</h3>
