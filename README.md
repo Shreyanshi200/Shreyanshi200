@@ -1,5 +1,3 @@
-[![An image of @shreyanshi200's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreyanshi200)](https://holopin.io/@shreyanshi200)
-
 ![MasterHead](https://user-images.githubusercontent.com/70682152/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 <h1 align="center">Hi 👋, I'm Shreyanshi Srivastava</h1>
 <h3 align="center">An Aspiring Software Developer from India</h3>
